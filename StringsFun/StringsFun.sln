@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funWithStrings", "funWithStrings\funWithStrings.csproj", "{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsFun", "StringsFun\StringsFun.csproj", "{399D0459-8716-44A0-B393-68B75DEB61BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399D0459-8716-44A0-B393-68B75DEB61BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399D0459-8716-44A0-B393-68B75DEB61BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399D0459-8716-44A0-B393-68B75DEB61BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399D0459-8716-44A0-B393-68B75DEB61BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {56D22A8C-BD54-4ADF-AC13-69FD099E1AC4}
+		SolutionGuid = {D6F518C1-2209-4F37-8355-B13AD2CFDB0E}
 	EndGlobalSection
 EndGlobal

@@ -23,7 +23,7 @@ namespace funWithStrings
             //Create a Stringbuilder and build a paragraph of text, one sentence at a time.
             StringBuilder sb = new StringBuilder();
 
-            sb.Append("Ohhhhhh!Who lives in a pineapple under the sea?");
+            sb.Append("Ohhhhhh!    \nWho lives in a pineapple under the sea?");
             string sponge = "\n        SpongeBob SquarePants!";
             sb.Append(sponge);
             sb.Append("\n    Absorbent and yellow and porous is he!");

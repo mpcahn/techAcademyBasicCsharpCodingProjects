@@ -1,6 +1,0 @@
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\bin\Debug\funWithStrings.exe.config
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\bin\Debug\funWithStrings.exe
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\bin\Debug\funWithStrings.pdb
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\obj\Debug\funWithStrings.csproj.CoreCompileInputs.cache
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\obj\Debug\funWithStrings.exe
-C:\Users\Matt\Source\Repos\TAloops\funWithStrings\funWithStrings\obj\Debug\funWithStrings.pdb

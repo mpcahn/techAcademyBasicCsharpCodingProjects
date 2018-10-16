@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE20249C-E2EE-4EE0-8EC9-F6921868FDB7}</ProjectGuid>
+    <ProjectGuid>{399D0459-8716-44A0-B393-68B75DEB61BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>funWithStrings</RootNamespace>
-    <AssemblyName>funWithStrings</AssemblyName>
+    <RootNamespace>StringsFun</RootNamespace>
+    <AssemblyName>StringsFun</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
