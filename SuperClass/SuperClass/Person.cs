@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperClass
 {
-    class Person
+    public class Person
     {
         //1.Create a class called Person and give it two properties, each of data type string. One called FirstName, the other LastName.
         public string FirstName { get; set; }
