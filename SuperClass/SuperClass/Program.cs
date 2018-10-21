@@ -18,6 +18,7 @@ namespace SuperClass
             Employee Employee2 = new Employee() { FirstName = "Sample", LastName = "Student", Id=1 };
 
             //5. Call the superclass method SayName() on the Employee object.
+            //Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id property.
             Employee1.SayName();
             Employee2.SayName();
             Console.WriteLine(Employee1 == Employee2);
