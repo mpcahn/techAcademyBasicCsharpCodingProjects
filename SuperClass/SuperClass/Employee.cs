@@ -17,6 +17,7 @@ namespace SuperClass
         public void Quit()
         {
             Console.WriteLine("Quit");
+
             Console.ReadLine();
         }
 
