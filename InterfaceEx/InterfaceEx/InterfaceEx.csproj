@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C353D0BA-3F35-44FD-933F-B929E8E3C3D4}</ProjectGuid>
+    <ProjectGuid>{15ED5C55-D434-41D6-9756-5100F76B8DF6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SuperClass</RootNamespace>
-    <AssemblyName>SuperClass</AssemblyName>
+    <RootNamespace>InterfaceEx</RootNamespace>
+    <AssemblyName>InterfaceEx</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

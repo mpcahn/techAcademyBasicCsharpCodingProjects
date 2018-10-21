@@ -19,6 +19,17 @@ namespace SuperClass
             //5. Call the superclass method SayName() on the Employee object.
             Employee1.SayName();
             Console.ReadLine();
+
+            //IN A CONSOLE APP, CREATE CODE THAT DOES THE FOLLOWING:
+            //1.Create an interface called IQuittable and have it define a void method called Quit().
+            //2. Have your Employee class from the previous drill inherit that interface and implement 
+            //  the Quit() method in any way you choose.
+            //3. Use polymorphism to create an object of type IQuittable and call the Quit() method on it. 
+            //  Hint: an object can be of an interface type if it implements that specific interface.
+            IQuittable quit = Employee1;
+
+            quit.Quit();
+
         }
     }
 }
